@@ -5,6 +5,7 @@ sqlparse==0.4.1
 psycopg2-binary
 python manage.py startapp
 set DATABASE_URL=postgres://postgres:postgre@127.0.0.1:5432/django_test_db
+python manage.py startproject core .
             Дз...
 
       МВС
